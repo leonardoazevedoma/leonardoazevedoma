@@ -1,4 +1,4 @@
-# UM FUTURO PROGRAMADOR DO GAME OF THE YEAR
+# UM FUTURO PROGRAMADOR DO GAME OF THE YEAR <img src="https://github.com/leonardoazevedoma/leonardoazevedoma/blob/master/tenor.gif" width="200" >
 ####  *Tudo pra dar certo é:* 
 > #### Uma mente leve
 > #### trabalho em equipe
