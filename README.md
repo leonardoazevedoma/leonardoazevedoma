@@ -1,5 +1,5 @@
 # UM FUTURO PROGRAMDOR DO GAME OF THE YEAR
-##Atualmente programando em ![Linguagem c](
+Atualmente programando em ![Linguagem c](https://github.com/leonardoazevedoma/leonardoazevedoma/blob/master/unnamed.jpg)
 <!--
 **leonardoazevedoma/leonardoazevedoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
