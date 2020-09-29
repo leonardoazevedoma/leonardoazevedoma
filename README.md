@@ -1,4 +1,4 @@
-# UM FUTURO PROGRAMaDOR DO GAME OF THE YEAR
+# UM FUTURO PROGRAMADOR DO GAME OF THE YEAR
 ####  *Tudo pra dar certo é:* 
 > #### Uma mente leve
 > #### trabalho em equipe
