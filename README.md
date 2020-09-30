@@ -3,12 +3,18 @@
 
 <img src="https://github.com/leonardoazevedoma/leonardoazevedoma/blob/master/tenor%20(1).gif" title="MYERS DANÇARINO!" align="right" width="500px" data-canonical-src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fdead-by-daylight-gifs&psig=AOvVaw2JBqNp-6w7wezFEDFslqfw&ust=1601495459109000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCGqdGRj-wCFQAAAAAdAAAAABAD" style="max-width:200%;">
 
-██ 20% Programdor
-████ 40% café
-███████60% linux
+██ 20% Programador
+
+████ 40% café 
+      
+███████60% linux 
+
 █████████ 70% café
+
 ███████████ 80% Pro player
+
 ████████████ 90% café????
+
 █████████████ 100% e agora??
 
 
