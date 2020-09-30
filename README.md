@@ -1,4 +1,7 @@
-# LEONARDO UM FUTURO PROGRAMADOR DO GAME OF THE YEAR <img src="https://github.com/leonardoazevedoma/leonardoazevedoma/blob/master/tenor%20(1).gif" title="Um gif muito foda do Rick Sanchez!" align="right" width="500px" data-canonical-src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fdead-by-daylight-gifs&psig=AOvVaw2JBqNp-6w7wezFEDFslqfw&ust=1601495459109000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCGqdGRj-wCFQAAAAAdAAAAABAD" style="max-width:200%;">
+# LEONARDO UM FUTURO PROGRAMADOR DO GAME OF THE YEAR
+## Estudante do curso de ciência da computação pela [UFFS](https://www.uffs.edu.br/campi/chapeco)campus de Chapecó-SC
+
+<img src="https://github.com/leonardoazevedoma/leonardoazevedoma/blob/master/tenor%20(1).gif" title="Um gif muito foda do Rick Sanchez!" align="right" width="500px" data-canonical-src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fdead-by-daylight-gifs&psig=AOvVaw2JBqNp-6w7wezFEDFslqfw&ust=1601495459109000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCGqdGRj-wCFQAAAAAdAAAAABAD" style="max-width:200%;">
 ####  *Tudo pra dar certo é:* 
 > #### Uma mente leve
 > #### trabalho em equipe
